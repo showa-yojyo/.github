@@ -1,0 +1,8 @@
+# For format specification, see
+# <https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository#configuring-the-template-chooser>
+
+blank_issues_enabled: false
+contact_links:
+- name: "プレハブ小屋 Twitter"
+  url: https://twitter.com/showa_yojyo
+  about: If you have something to tell me
