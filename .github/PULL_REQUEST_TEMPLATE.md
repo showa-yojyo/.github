@@ -1,11 +1,3 @@
----
-title: Pull Request Template
-revision: 0
-
----
-
-<!-- Summarize the changes in the title. -->
-
 ## Summary
 
 <!--
@@ -17,13 +9,6 @@ Describe
 -->
 
 ## Checks
-
-<!-- Remove any lines that do not apply to this pull request.
-
-- [ ] new and changed code is [tested](https://matplotlib.org/devdocs/devel/testing.html)
-- [ ] *New Features* and *API Changes* are noted with a [directive and release note](https://matplotlib.org/devdocs/devel/api_changes.html#announce-changes-deprecations-and-new-features)
-- [ ] Documentation complies with [general](https://matplotlib.org/devdocs/devel/document.html#write-rest-pages) and [docstring](https://matplotlib.org/devdocs/devel/document.html#write-docstrings) guidelines
--->
 
 * [ ] [CODE_OF_CONDUCT][conduct] を一読した
 * [ ] 関連する既存の issue がある場合、見出しまたは本文に `#xxx` を含めた
